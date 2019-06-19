@@ -3,7 +3,7 @@
 ## Introduction
 For this project, I will be analysing a dataset of about 10,000 movies from The Movie Database (TMDb). This dataset contains relevant information such as budget, revenue, genre, cast, director and runtime etc which will be useful for our analysis.
 
-## Scope of AB Tests
+## Scope
 In particular I will be investigating the following questions:
 * Research Question 1 : What are the top profit-making movies?
 * Research Question 2: Does the runtime of a movie affect its profit and popularity?
